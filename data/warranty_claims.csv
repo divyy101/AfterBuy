@@ -1,0 +1,401 @@
+claim_id,sale_id,product_id,claim_date,claim_reason,claim_status,warranty_valid
+CLM-00001,SALE-00136,PROD-0033,2025-12-17,Device not turning on,Under Review,No
+CLM-00002,SALE-00984,PROD-0014,2024-06-19,Audio distortion,Rejected,Yes
+CLM-00003,SALE-00238,PROD-0057,2025-12-27,Wi-Fi disconnecting,Approved,Yes
+CLM-00004,SALE-00566,PROD-0093,2025-05-27,Overheating issue,Pending,No
+CLM-00005,SALE-00087,PROD-0090,2025-04-29,Audio distortion,Pending,Yes
+CLM-00006,SALE-00228,PROD-0082,2024-05-14,Bluetooth not pairing,Approved,No
+CLM-00007,SALE-00572,PROD-0017,2025-06-18,Battery draining fast,Approved,No
+CLM-00008,SALE-00973,PROD-0039,2023-12-18,Overheating issue,Approved,Yes
+CLM-00009,SALE-00805,PROD-0063,2025-12-27,Battery draining fast,Under Review,Yes
+CLM-00010,SALE-00430,PROD-0039,2024-11-27,Camera not working,Pending,Yes
+CLM-00011,SALE-00274,PROD-0069,2025-05-09,Physical damage claim,Under Review,Yes
+CLM-00012,SALE-00522,PROD-0056,2022-11-27,Charging port defect,Rejected,Yes
+CLM-00013,SALE-00763,PROD-0016,2025-09-03,Performance degradation,Pending,No
+CLM-00014,SALE-00580,PROD-0030,2024-10-23,Software crash,Pending,No
+CLM-00015,SALE-00711,PROD-0061,2025-05-16,Speaker malfunction,Rejected,Yes
+CLM-00016,SALE-00484,PROD-0044,2024-12-31,Device not turning on,Under Review,Yes
+CLM-00017,SALE-00598,PROD-0062,2025-08-08,Overheating issue,Pending,Yes
+CLM-00018,SALE-00875,PROD-0085,2024-11-16,Charging port defect,Approved,Yes
+CLM-00019,SALE-00491,PROD-0003,2023-05-09,Bluetooth not pairing,Pending,No
+CLM-00020,SALE-00844,PROD-0054,2025-06-06,Overheating issue,Rejected,Yes
+CLM-00021,SALE-00408,PROD-0063,2025-10-17,Software crash,Approved,Yes
+CLM-00022,SALE-00815,PROD-0053,2024-10-30,Speaker malfunction,Pending,Yes
+CLM-00023,SALE-00037,PROD-0002,2025-01-17,Device not turning on,Rejected,Yes
+CLM-00024,SALE-00200,PROD-0061,2025-04-25,Speaker malfunction,Pending,Yes
+CLM-00025,SALE-00468,PROD-0052,2025-04-03,Speaker malfunction,Approved,Yes
+CLM-00026,SALE-00043,PROD-0078,2025-05-18,Physical damage claim,Rejected,Yes
+CLM-00027,SALE-00210,PROD-0076,2025-02-05,Performance degradation,Approved,Yes
+CLM-00028,SALE-00281,PROD-0028,2025-09-04,Screen flickering,Rejected,Yes
+CLM-00029,SALE-00754,PROD-0065,2025-09-01,Connectivity dropping,Pending,No
+CLM-00030,SALE-00855,PROD-0029,2025-03-27,Speaker malfunction,Pending,Yes
+CLM-00031,SALE-00486,PROD-0074,2025-07-31,Software crash,Pending,Yes
+CLM-00032,SALE-00658,PROD-0044,2025-06-11,Overheating issue,Rejected,Yes
+CLM-00033,SALE-00947,PROD-0038,2023-04-14,Screen flickering,Approved,Yes
+CLM-00034,SALE-00764,PROD-0049,2024-11-01,Software crash,Under Review,Yes
+CLM-00035,SALE-00302,PROD-0091,2025-07-29,Audio distortion,Approved,Yes
+CLM-00036,SALE-00715,PROD-0074,2024-09-12,Camera not working,Rejected,Yes
+CLM-00037,SALE-00955,PROD-0017,2025-05-25,Software crash,Pending,Yes
+CLM-00038,SALE-00167,PROD-0047,2025-10-08,Battery draining fast,Rejected,Yes
+CLM-00039,SALE-00334,PROD-0041,2025-11-15,Bluetooth not pairing,Approved,Yes
+CLM-00040,SALE-00880,PROD-0099,2025-10-30,Bluetooth not pairing,Pending,Yes
+CLM-00041,SALE-00254,PROD-0042,2024-04-17,Battery draining fast,Rejected,Yes
+CLM-00042,SALE-00854,PROD-0046,2025-01-10,Audio distortion,Approved,Yes
+CLM-00043,SALE-00237,PROD-0036,2025-08-13,Bluetooth not pairing,Rejected,Yes
+CLM-00044,SALE-00422,PROD-0077,2025-11-02,Audio distortion,Under Review,Yes
+CLM-00045,SALE-00695,PROD-0052,2025-05-11,Battery draining fast,Under Review,Yes
+CLM-00046,SALE-00335,PROD-0081,2025-02-07,Camera not working,Rejected,Yes
+CLM-00047,SALE-00773,PROD-0095,2025-10-04,Device not turning on,Approved,Yes
+CLM-00048,SALE-00113,PROD-0027,2024-06-20,Screen flickering,Rejected,Yes
+CLM-00049,SALE-00389,PROD-0059,2025-08-13,Touchscreen unresponsive,Approved,Yes
+CLM-00050,SALE-00889,PROD-0052,2024-05-05,Wi-Fi disconnecting,Approved,Yes
+CLM-00051,SALE-00690,PROD-0028,2025-10-11,Battery draining fast,Rejected,Yes
+CLM-00052,SALE-00810,PROD-0016,2025-09-30,Screen flickering,Approved,Yes
+CLM-00053,SALE-00403,PROD-0043,2025-09-13,Device not turning on,Under Review,Yes
+CLM-00054,SALE-00674,PROD-0075,2025-02-08,Screen flickering,Under Review,Yes
+CLM-00055,SALE-00309,PROD-0043,2025-10-17,Software crash,Approved,No
+CLM-00056,SALE-00976,PROD-0093,2025-05-21,Touchscreen unresponsive,Under Review,No
+CLM-00057,SALE-00021,PROD-0070,2025-11-01,Charging port defect,Rejected,Yes
+CLM-00058,SALE-00301,PROD-0076,2024-07-16,Connectivity dropping,Pending,Yes
+CLM-00059,SALE-00992,PROD-0069,2025-09-30,Wi-Fi disconnecting,Rejected,Yes
+CLM-00060,SALE-00572,PROD-0017,2024-07-07,Performance degradation,Rejected,Yes
+CLM-00061,SALE-00949,PROD-0017,2025-08-18,Software crash,Under Review,Yes
+CLM-00062,SALE-00531,PROD-0092,2024-10-05,Device not turning on,Approved,No
+CLM-00063,SALE-00472,PROD-0030,2025-08-14,Screen flickering,Under Review,Yes
+CLM-00064,SALE-00803,PROD-0039,2024-05-20,Touchscreen unresponsive,Rejected,Yes
+CLM-00065,SALE-00850,PROD-0056,2024-12-02,Audio distortion,Pending,Yes
+CLM-00066,SALE-00761,PROD-0099,2025-08-19,Physical damage claim,Under Review,Yes
+CLM-00067,SALE-00014,PROD-0051,2025-09-08,Wi-Fi disconnecting,Pending,Yes
+CLM-00068,SALE-00598,PROD-0062,2025-08-18,Screen flickering,Approved,Yes
+CLM-00069,SALE-00615,PROD-0007,2024-10-27,Performance degradation,Rejected,Yes
+CLM-00070,SALE-00222,PROD-0054,2023-10-06,Wi-Fi disconnecting,Pending,Yes
+CLM-00071,SALE-00268,PROD-0009,2024-10-16,Camera not working,Under Review,Yes
+CLM-00072,SALE-00689,PROD-0087,2025-09-24,Overheating issue,Rejected,Yes
+CLM-00073,SALE-00716,PROD-0043,2022-12-04,Overheating issue,Rejected,Yes
+CLM-00074,SALE-00478,PROD-0064,2025-09-07,Bluetooth not pairing,Approved,Yes
+CLM-00075,SALE-00003,PROD-0056,2025-03-17,Performance degradation,Under Review,Yes
+CLM-00076,SALE-00119,PROD-0056,2023-09-19,Wi-Fi disconnecting,Rejected,Yes
+CLM-00077,SALE-00104,PROD-0030,2025-10-01,Overheating issue,Pending,No
+CLM-00078,SALE-00352,PROD-0100,2024-08-21,Wi-Fi disconnecting,Approved,No
+CLM-00079,SALE-00667,PROD-0014,2025-09-10,Performance degradation,Rejected,Yes
+CLM-00080,SALE-00732,PROD-0041,2025-03-18,Bluetooth not pairing,Under Review,Yes
+CLM-00081,SALE-00466,PROD-0087,2025-09-09,Screen flickering,Under Review,Yes
+CLM-00082,SALE-00373,PROD-0064,2025-07-29,Battery draining fast,Approved,Yes
+CLM-00083,SALE-00665,PROD-0075,2025-08-25,Overheating issue,Approved,Yes
+CLM-00084,SALE-00511,PROD-0021,2025-04-27,Device not turning on,Pending,Yes
+CLM-00085,SALE-00911,PROD-0035,2024-01-10,Camera not working,Rejected,Yes
+CLM-00086,SALE-00883,PROD-0025,2025-12-21,Speaker malfunction,Rejected,Yes
+CLM-00087,SALE-00493,PROD-0032,2025-07-28,Device not turning on,Approved,Yes
+CLM-00088,SALE-00752,PROD-0041,2024-07-11,Performance degradation,Rejected,Yes
+CLM-00089,SALE-00027,PROD-0059,2025-10-10,Bluetooth not pairing,Pending,Yes
+CLM-00090,SALE-00783,PROD-0011,2025-10-23,Charging port defect,Under Review,Yes
+CLM-00091,SALE-00158,PROD-0056,2024-11-23,Charging port defect,Pending,Yes
+CLM-00092,SALE-00715,PROD-0074,2024-08-07,Screen flickering,Rejected,Yes
+CLM-00093,SALE-00699,PROD-0100,2024-05-15,Camera not working,Under Review,No
+CLM-00094,SALE-00941,PROD-0093,2025-08-07,Speaker malfunction,Pending,Yes
+CLM-00095,SALE-00181,PROD-0094,2025-07-19,Touchscreen unresponsive,Rejected,Yes
+CLM-00096,SALE-00590,PROD-0064,2025-05-02,Speaker malfunction,Pending,Yes
+CLM-00097,SALE-00301,PROD-0076,2024-05-16,Screen flickering,Approved,Yes
+CLM-00098,SALE-00860,PROD-0080,2024-01-25,Bluetooth not pairing,Approved,Yes
+CLM-00099,SALE-00200,PROD-0061,2025-03-31,Performance degradation,Pending,Yes
+CLM-00100,SALE-00445,PROD-0001,2025-10-12,Touchscreen unresponsive,Approved,Yes
+CLM-00101,SALE-00267,PROD-0037,2025-03-13,Charging port defect,Approved,Yes
+CLM-00102,SALE-00078,PROD-0032,2024-12-05,Charging port defect,Pending,Yes
+CLM-00103,SALE-00691,PROD-0030,2024-04-14,Touchscreen unresponsive,Approved,Yes
+CLM-00104,SALE-00623,PROD-0055,2025-07-21,Device not turning on,Pending,Yes
+CLM-00105,SALE-00726,PROD-0037,2025-09-20,Overheating issue,Approved,No
+CLM-00106,SALE-00985,PROD-0098,2025-06-22,Camera not working,Approved,Yes
+CLM-00107,SALE-00202,PROD-0044,2023-11-12,Device not turning on,Under Review,Yes
+CLM-00108,SALE-00228,PROD-0082,2024-11-01,Speaker malfunction,Under Review,No
+CLM-00109,SALE-00423,PROD-0008,2025-05-01,Wi-Fi disconnecting,Under Review,Yes
+CLM-00110,SALE-00024,PROD-0083,2025-11-30,Wi-Fi disconnecting,Under Review,No
+CLM-00111,SALE-00646,PROD-0090,2025-03-13,Physical damage claim,Under Review,No
+CLM-00112,SALE-00545,PROD-0050,2024-04-29,Bluetooth not pairing,Under Review,Yes
+CLM-00113,SALE-00406,PROD-0066,2025-03-19,Screen flickering,Under Review,Yes
+CLM-00114,SALE-00828,PROD-0030,2023-11-01,Camera not working,Approved,Yes
+CLM-00115,SALE-00404,PROD-0053,2025-09-09,Charging port defect,Pending,Yes
+CLM-00116,SALE-00011,PROD-0009,2024-02-27,Battery draining fast,Pending,Yes
+CLM-00117,SALE-00115,PROD-0073,2024-12-16,Wi-Fi disconnecting,Under Review,No
+CLM-00118,SALE-00803,PROD-0039,2024-04-10,Speaker malfunction,Approved,Yes
+CLM-00119,SALE-00931,PROD-0023,2025-08-26,Charging port defect,Under Review,Yes
+CLM-00120,SALE-00065,PROD-0090,2023-12-28,Audio distortion,Rejected,Yes
+CLM-00121,SALE-00362,PROD-0035,2025-06-24,Device not turning on,Approved,Yes
+CLM-00122,SALE-00858,PROD-0064,2025-08-17,Overheating issue,Under Review,Yes
+CLM-00123,SALE-00206,PROD-0085,2025-01-07,Touchscreen unresponsive,Pending,Yes
+CLM-00124,SALE-00433,PROD-0064,2025-03-02,Overheating issue,Approved,Yes
+CLM-00125,SALE-00066,PROD-0033,2024-11-22,Audio distortion,Under Review,Yes
+CLM-00126,SALE-00430,PROD-0039,2024-07-18,Device not turning on,Pending,Yes
+CLM-00127,SALE-00645,PROD-0034,2024-08-18,Audio distortion,Approved,Yes
+CLM-00128,SALE-00679,PROD-0078,2025-10-05,Bluetooth not pairing,Under Review,Yes
+CLM-00129,SALE-00079,PROD-0008,2022-12-24,Battery draining fast,Approved,Yes
+CLM-00130,SALE-00981,PROD-0057,2025-10-19,Screen flickering,Pending,Yes
+CLM-00131,SALE-00733,PROD-0003,2023-10-17,Software crash,Approved,Yes
+CLM-00132,SALE-00435,PROD-0053,2025-07-07,Camera not working,Under Review,Yes
+CLM-00133,SALE-00405,PROD-0033,2025-06-27,Software crash,Pending,No
+CLM-00134,SALE-00166,PROD-0016,2025-04-11,Touchscreen unresponsive,Under Review,Yes
+CLM-00135,SALE-00500,PROD-0073,2025-07-07,Charging port defect,Under Review,No
+CLM-00136,SALE-00420,PROD-0100,2024-09-19,Screen flickering,Under Review,No
+CLM-00137,SALE-00782,PROD-0060,2025-04-04,Connectivity dropping,Under Review,Yes
+CLM-00138,SALE-00417,PROD-0023,2025-06-12,Overheating issue,Pending,Yes
+CLM-00139,SALE-00535,PROD-0006,2023-02-17,Screen flickering,Approved,Yes
+CLM-00140,SALE-00072,PROD-0020,2022-12-18,Touchscreen unresponsive,Pending,Yes
+CLM-00141,SALE-00212,PROD-0049,2025-08-20,Performance degradation,Rejected,Yes
+CLM-00142,SALE-00166,PROD-0016,2025-03-11,Bluetooth not pairing,Under Review,Yes
+CLM-00143,SALE-00815,PROD-0053,2025-08-09,Physical damage claim,Under Review,No
+CLM-00144,SALE-00576,PROD-0012,2023-06-21,Software crash,Pending,No
+CLM-00145,SALE-00742,PROD-0040,2024-12-10,Audio distortion,Approved,Yes
+CLM-00146,SALE-00431,PROD-0002,2024-07-15,Performance degradation,Rejected,No
+CLM-00147,SALE-00769,PROD-0016,2025-06-20,Camera not working,Under Review,Yes
+CLM-00148,SALE-00810,PROD-0016,2025-12-13,Screen flickering,Rejected,No
+CLM-00149,SALE-00324,PROD-0068,2025-11-20,Screen flickering,Approved,No
+CLM-00150,SALE-00974,PROD-0052,2025-10-02,Battery draining fast,Under Review,Yes
+CLM-00151,SALE-00214,PROD-0011,2025-07-26,Bluetooth not pairing,Rejected,Yes
+CLM-00152,SALE-00716,PROD-0043,2023-05-15,Charging port defect,Approved,Yes
+CLM-00153,SALE-00537,PROD-0006,2025-05-18,Audio distortion,Under Review,Yes
+CLM-00154,SALE-00628,PROD-0028,2024-12-21,Bluetooth not pairing,Pending,Yes
+CLM-00155,SALE-00368,PROD-0007,2025-05-25,Wi-Fi disconnecting,Approved,Yes
+CLM-00156,SALE-00185,PROD-0067,2025-10-26,Battery draining fast,Under Review,Yes
+CLM-00157,SALE-00180,PROD-0068,2025-08-17,Screen flickering,Approved,Yes
+CLM-00158,SALE-00903,PROD-0042,2025-10-14,Performance degradation,Approved,Yes
+CLM-00159,SALE-00903,PROD-0042,2025-09-04,Wi-Fi disconnecting,Pending,Yes
+CLM-00160,SALE-00952,PROD-0055,2025-10-04,Connectivity dropping,Under Review,Yes
+CLM-00161,SALE-00935,PROD-0001,2024-08-11,Performance degradation,Under Review,No
+CLM-00162,SALE-00966,PROD-0077,2024-02-26,Screen flickering,Pending,Yes
+CLM-00163,SALE-00083,PROD-0024,2025-06-14,Screen flickering,Under Review,No
+CLM-00164,SALE-00751,PROD-0018,2025-08-04,Audio distortion,Pending,Yes
+CLM-00165,SALE-00442,PROD-0003,2022-10-18,Device not turning on,Under Review,No
+CLM-00166,SALE-00151,PROD-0013,2024-06-02,Wi-Fi disconnecting,Pending,Yes
+CLM-00167,SALE-00764,PROD-0049,2024-06-06,Charging port defect,Pending,Yes
+CLM-00168,SALE-00118,PROD-0038,2025-05-07,Bluetooth not pairing,Under Review,Yes
+CLM-00169,SALE-00650,PROD-0020,2024-08-09,Bluetooth not pairing,Rejected,Yes
+CLM-00170,SALE-00876,PROD-0096,2024-09-24,Connectivity dropping,Under Review,Yes
+CLM-00171,SALE-00968,PROD-0036,2025-07-25,Connectivity dropping,Under Review,Yes
+CLM-00172,SALE-00676,PROD-0058,2023-09-15,Overheating issue,Under Review,Yes
+CLM-00173,SALE-00967,PROD-0009,2025-10-01,Wi-Fi disconnecting,Under Review,Yes
+CLM-00174,SALE-00887,PROD-0050,2025-08-06,Physical damage claim,Pending,Yes
+CLM-00175,SALE-00643,PROD-0027,2023-08-21,Physical damage claim,Rejected,Yes
+CLM-00176,SALE-00072,PROD-0020,2022-11-28,Connectivity dropping,Under Review,Yes
+CLM-00177,SALE-00333,PROD-0057,2025-04-21,Camera not working,Approved,Yes
+CLM-00178,SALE-00479,PROD-0003,2023-01-19,Overheating issue,Rejected,No
+CLM-00179,SALE-00397,PROD-0031,2025-02-04,Overheating issue,Approved,Yes
+CLM-00180,SALE-00986,PROD-0047,2025-01-23,Device not turning on,Pending,No
+CLM-00181,SALE-00176,PROD-0023,2025-10-29,Connectivity dropping,Pending,Yes
+CLM-00182,SALE-00624,PROD-0080,2025-08-26,Audio distortion,Approved,Yes
+CLM-00183,SALE-00578,PROD-0082,2025-05-15,Overheating issue,Pending,Yes
+CLM-00184,SALE-00643,PROD-0027,2024-11-06,Performance degradation,Under Review,Yes
+CLM-00185,SALE-00575,PROD-0025,2025-10-04,Bluetooth not pairing,Under Review,Yes
+CLM-00186,SALE-00015,PROD-0008,2025-08-13,Charging port defect,Rejected,Yes
+CLM-00187,SALE-00642,PROD-0069,2025-06-04,Connectivity dropping,Approved,Yes
+CLM-00188,SALE-00957,PROD-0019,2024-07-30,Device not turning on,Rejected,No
+CLM-00189,SALE-00955,PROD-0017,2025-07-26,Bluetooth not pairing,Rejected,Yes
+CLM-00190,SALE-00145,PROD-0077,2025-08-03,Connectivity dropping,Under Review,Yes
+CLM-00191,SALE-00486,PROD-0074,2024-09-19,Bluetooth not pairing,Approved,Yes
+CLM-00192,SALE-00779,PROD-0081,2025-07-19,Wi-Fi disconnecting,Rejected,Yes
+CLM-00193,SALE-00261,PROD-0094,2023-04-22,Performance degradation,Approved,Yes
+CLM-00194,SALE-00838,PROD-0082,2025-03-18,Connectivity dropping,Pending,No
+CLM-00195,SALE-00835,PROD-0073,2025-07-23,Wi-Fi disconnecting,Under Review,Yes
+CLM-00196,SALE-00791,PROD-0031,2025-07-30,Software crash,Pending,Yes
+CLM-00197,SALE-00608,PROD-0017,2025-06-30,Software crash,Pending,Yes
+CLM-00198,SALE-00575,PROD-0025,2025-09-12,Audio distortion,Approved,Yes
+CLM-00199,SALE-00388,PROD-0090,2023-01-31,Physical damage claim,Pending,Yes
+CLM-00200,SALE-00751,PROD-0018,2025-08-03,Touchscreen unresponsive,Approved,Yes
+CLM-00201,SALE-00541,PROD-0079,2025-03-12,Charging port defect,Pending,Yes
+CLM-00202,SALE-00145,PROD-0077,2025-08-12,Connectivity dropping,Pending,Yes
+CLM-00203,SALE-00991,PROD-0038,2023-05-26,Screen flickering,Rejected,Yes
+CLM-00204,SALE-00675,PROD-0013,2023-04-30,Camera not working,Under Review,Yes
+CLM-00205,SALE-00688,PROD-0031,2025-08-19,Touchscreen unresponsive,Rejected,Yes
+CLM-00206,SALE-00341,PROD-0098,2024-11-23,Touchscreen unresponsive,Under Review,Yes
+CLM-00207,SALE-00087,PROD-0090,2025-06-16,Connectivity dropping,Under Review,Yes
+CLM-00208,SALE-00304,PROD-0044,2025-10-03,Audio distortion,Approved,No
+CLM-00209,SALE-00991,PROD-0038,2023-05-28,Charging port defect,Rejected,Yes
+CLM-00210,SALE-00821,PROD-0074,2025-09-07,Wi-Fi disconnecting,Pending,Yes
+CLM-00211,SALE-00961,PROD-0053,2025-02-16,Connectivity dropping,Rejected,No
+CLM-00212,SALE-00629,PROD-0012,2023-04-08,Connectivity dropping,Approved,No
+CLM-00213,SALE-00203,PROD-0060,2025-05-22,Speaker malfunction,Pending,Yes
+CLM-00214,SALE-00257,PROD-0014,2025-06-12,Touchscreen unresponsive,Pending,Yes
+CLM-00215,SALE-00647,PROD-0071,2025-11-25,Overheating issue,Pending,Yes
+CLM-00216,SALE-00233,PROD-0053,2025-04-27,Speaker malfunction,Pending,Yes
+CLM-00217,SALE-00589,PROD-0025,2025-08-06,Charging port defect,Pending,Yes
+CLM-00218,SALE-00374,PROD-0043,2025-09-12,Software crash,Approved,Yes
+CLM-00219,SALE-00596,PROD-0078,2025-04-27,Bluetooth not pairing,Approved,Yes
+CLM-00220,SALE-00710,PROD-0008,2023-12-04,Wi-Fi disconnecting,Rejected,Yes
+CLM-00221,SALE-00798,PROD-0019,2024-01-12,Battery draining fast,Under Review,No
+CLM-00222,SALE-00881,PROD-0100,2025-08-06,Device not turning on,Rejected,Yes
+CLM-00223,SALE-00884,PROD-0039,2023-11-19,Overheating issue,Pending,Yes
+CLM-00224,SALE-00582,PROD-0091,2025-09-23,Performance degradation,Under Review,Yes
+CLM-00225,SALE-00098,PROD-0072,2024-08-09,Charging port defect,Rejected,Yes
+CLM-00226,SALE-00611,PROD-0069,2025-11-16,Software crash,Pending,Yes
+CLM-00227,SALE-00084,PROD-0091,2025-11-20,Charging port defect,Approved,Yes
+CLM-00228,SALE-00166,PROD-0016,2025-01-12,Software crash,Pending,Yes
+CLM-00229,SALE-00158,PROD-0056,2025-03-14,Camera not working,Rejected,Yes
+CLM-00230,SALE-00499,PROD-0028,2024-05-01,Software crash,Approved,Yes
+CLM-00231,SALE-00097,PROD-0039,2025-08-02,Performance degradation,Under Review,Yes
+CLM-00232,SALE-00310,PROD-0097,2025-09-06,Audio distortion,Under Review,Yes
+CLM-00233,SALE-00856,PROD-0001,2025-01-08,Audio distortion,Approved,No
+CLM-00234,SALE-00991,PROD-0038,2022-12-23,Physical damage claim,Rejected,Yes
+CLM-00235,SALE-00912,PROD-0007,2024-03-05,Device not turning on,Pending,Yes
+CLM-00236,SALE-00616,PROD-0012,2025-09-16,Touchscreen unresponsive,Approved,Yes
+CLM-00237,SALE-00272,PROD-0070,2025-12-20,Overheating issue,Pending,Yes
+CLM-00238,SALE-00283,PROD-0086,2023-02-13,Screen flickering,Approved,No
+CLM-00239,SALE-00612,PROD-0046,2023-06-02,Physical damage claim,Pending,Yes
+CLM-00240,SALE-00790,PROD-0036,2025-05-24,Battery draining fast,Approved,Yes
+CLM-00241,SALE-00399,PROD-0078,2025-06-03,Connectivity dropping,Under Review,Yes
+CLM-00242,SALE-00046,PROD-0053,2024-10-15,Performance degradation,Pending,No
+CLM-00243,SALE-00385,PROD-0093,2025-06-01,Wi-Fi disconnecting,Rejected,No
+CLM-00244,SALE-00502,PROD-0048,2025-09-25,Wi-Fi disconnecting,Under Review,Yes
+CLM-00245,SALE-00924,PROD-0088,2025-10-15,Camera not working,Rejected,No
+CLM-00246,SALE-00673,PROD-0035,2023-10-18,Wi-Fi disconnecting,Under Review,Yes
+CLM-00247,SALE-00612,PROD-0046,2022-05-25,Overheating issue,Rejected,Yes
+CLM-00248,SALE-00399,PROD-0078,2024-12-14,Overheating issue,Approved,Yes
+CLM-00249,SALE-00991,PROD-0038,2024-04-14,Screen flickering,Approved,Yes
+CLM-00250,SALE-00313,PROD-0091,2024-06-12,Speaker malfunction,Approved,Yes
+CLM-00251,SALE-00326,PROD-0032,2025-09-07,Camera not working,Approved,Yes
+CLM-00252,SALE-00708,PROD-0086,2023-09-19,Touchscreen unresponsive,Approved,Yes
+CLM-00253,SALE-00954,PROD-0078,2024-03-19,Device not turning on,Approved,Yes
+CLM-00254,SALE-00788,PROD-0064,2024-10-02,Software crash,Under Review,Yes
+CLM-00255,SALE-00516,PROD-0077,2025-04-24,Physical damage claim,Pending,Yes
+CLM-00256,SALE-00010,PROD-0058,2025-09-20,Screen flickering,Rejected,No
+CLM-00257,SALE-00775,PROD-0013,2024-03-15,Connectivity dropping,Under Review,Yes
+CLM-00258,SALE-00987,PROD-0014,2023-11-07,Touchscreen unresponsive,Pending,Yes
+CLM-00259,SALE-00313,PROD-0091,2023-10-21,Audio distortion,Approved,Yes
+CLM-00260,SALE-00902,PROD-0003,2024-03-11,Speaker malfunction,Approved,No
+CLM-00261,SALE-00311,PROD-0007,2025-09-08,Battery draining fast,Approved,Yes
+CLM-00262,SALE-00671,PROD-0068,2023-08-24,Overheating issue,Rejected,No
+CLM-00263,SALE-00320,PROD-0045,2025-09-30,Physical damage claim,Rejected,Yes
+CLM-00264,SALE-00420,PROD-0100,2024-09-07,Speaker malfunction,Under Review,No
+CLM-00265,SALE-00091,PROD-0034,2025-07-05,Device not turning on,Under Review,Yes
+CLM-00266,SALE-00013,PROD-0034,2024-11-18,Speaker malfunction,Under Review,Yes
+CLM-00267,SALE-00075,PROD-0075,2025-04-20,Device not turning on,Approved,Yes
+CLM-00268,SALE-00373,PROD-0064,2025-09-20,Wi-Fi disconnecting,Approved,Yes
+CLM-00269,SALE-00329,PROD-0028,2025-12-08,Screen flickering,Approved,No
+CLM-00270,SALE-00968,PROD-0036,2024-10-08,Speaker malfunction,Approved,Yes
+CLM-00271,SALE-00701,PROD-0074,2024-04-29,Touchscreen unresponsive,Rejected,Yes
+CLM-00272,SALE-00010,PROD-0058,2025-06-08,Connectivity dropping,Under Review,Yes
+CLM-00273,SALE-00450,PROD-0004,2023-11-22,Battery draining fast,Rejected,Yes
+CLM-00274,SALE-00664,PROD-0026,2025-06-29,Bluetooth not pairing,Pending,Yes
+CLM-00275,SALE-00355,PROD-0016,2024-11-10,Camera not working,Pending,No
+CLM-00276,SALE-00930,PROD-0046,2023-12-31,Speaker malfunction,Approved,Yes
+CLM-00277,SALE-00434,PROD-0052,2023-07-25,Bluetooth not pairing,Approved,Yes
+CLM-00278,SALE-00331,PROD-0040,2024-08-02,Bluetooth not pairing,Rejected,Yes
+CLM-00279,SALE-00628,PROD-0028,2024-07-15,Charging port defect,Pending,Yes
+CLM-00280,SALE-00641,PROD-0090,2025-10-13,Performance degradation,Pending,No
+CLM-00281,SALE-00517,PROD-0088,2024-12-09,Charging port defect,Pending,Yes
+CLM-00282,SALE-00411,PROD-0089,2025-05-11,Battery draining fast,Under Review,No
+CLM-00283,SALE-00007,PROD-0020,2025-09-24,Software crash,Pending,Yes
+CLM-00284,SALE-00242,PROD-0085,2025-10-03,Speaker malfunction,Under Review,Yes
+CLM-00285,SALE-00101,PROD-0068,2024-11-16,Touchscreen unresponsive,Rejected,No
+CLM-00286,SALE-00500,PROD-0073,2025-04-24,Screen flickering,Approved,Yes
+CLM-00287,SALE-00230,PROD-0041,2025-09-13,Battery draining fast,Under Review,Yes
+CLM-00288,SALE-00769,PROD-0016,2025-09-10,Performance degradation,Under Review,No
+CLM-00289,SALE-00288,PROD-0068,2025-12-08,Performance degradation,Under Review,No
+CLM-00290,SALE-00657,PROD-0071,2025-06-02,Bluetooth not pairing,Rejected,Yes
+CLM-00291,SALE-00274,PROD-0069,2025-08-19,Battery draining fast,Under Review,Yes
+CLM-00292,SALE-00580,PROD-0030,2025-05-14,Device not turning on,Approved,No
+CLM-00293,SALE-00561,PROD-0083,2025-09-05,Device not turning on,Rejected,Yes
+CLM-00294,SALE-00781,PROD-0095,2025-08-08,Audio distortion,Rejected,Yes
+CLM-00295,SALE-00069,PROD-0039,2024-11-05,Charging port defect,Under Review,Yes
+CLM-00296,SALE-00918,PROD-0027,2025-04-12,Bluetooth not pairing,Approved,Yes
+CLM-00297,SALE-00922,PROD-0018,2025-04-03,Touchscreen unresponsive,Rejected,Yes
+CLM-00298,SALE-00324,PROD-0068,2025-09-04,Bluetooth not pairing,Under Review,Yes
+CLM-00299,SALE-00087,PROD-0090,2025-02-03,Battery draining fast,Under Review,Yes
+CLM-00300,SALE-00645,PROD-0034,2025-07-09,Overheating issue,Pending,Yes
+CLM-00301,SALE-00905,PROD-0033,2025-07-21,Physical damage claim,Rejected,Yes
+CLM-00302,SALE-00077,PROD-0017,2025-07-20,Bluetooth not pairing,Rejected,Yes
+CLM-00303,SALE-00574,PROD-0095,2023-06-18,Software crash,Under Review,Yes
+CLM-00304,SALE-00073,PROD-0067,2024-12-21,Bluetooth not pairing,Under Review,Yes
+CLM-00305,SALE-00068,PROD-0059,2025-08-26,Charging port defect,Approved,No
+CLM-00306,SALE-00218,PROD-0022,2025-08-15,Speaker malfunction,Approved,No
+CLM-00307,SALE-00590,PROD-0064,2025-05-29,Audio distortion,Under Review,Yes
+CLM-00308,SALE-00246,PROD-0024,2025-01-22,Physical damage claim,Approved,Yes
+CLM-00309,SALE-00770,PROD-0033,2024-04-10,Camera not working,Pending,Yes
+CLM-00310,SALE-00095,PROD-0062,2025-08-13,Physical damage claim,Rejected,No
+CLM-00311,SALE-00690,PROD-0028,2025-09-24,Charging port defect,Approved,Yes
+CLM-00312,SALE-00819,PROD-0080,2025-03-22,Bluetooth not pairing,Under Review,Yes
+CLM-00313,SALE-00474,PROD-0035,2025-05-21,Physical damage claim,Under Review,Yes
+CLM-00314,SALE-00002,PROD-0066,2023-06-11,Speaker malfunction,Under Review,Yes
+CLM-00315,SALE-00937,PROD-0091,2025-07-06,Battery draining fast,Rejected,Yes
+CLM-00316,SALE-00494,PROD-0041,2025-10-07,Charging port defect,Pending,Yes
+CLM-00317,SALE-00832,PROD-0002,2025-05-14,Physical damage claim,Pending,No
+CLM-00318,SALE-00684,PROD-0093,2025-03-20,Device not turning on,Rejected,Yes
+CLM-00319,SALE-00564,PROD-0043,2025-03-21,Screen flickering,Under Review,No
+CLM-00320,SALE-00549,PROD-0058,2024-01-04,Connectivity dropping,Rejected,Yes
+CLM-00321,SALE-00066,PROD-0033,2025-04-13,Battery draining fast,Under Review,No
+CLM-00322,SALE-01000,PROD-0002,2022-12-03,Software crash,Rejected,No
+CLM-00323,SALE-00092,PROD-0016,2025-05-20,Camera not working,Under Review,Yes
+CLM-00324,SALE-00184,PROD-0071,2022-08-05,Wi-Fi disconnecting,Approved,Yes
+CLM-00325,SALE-00791,PROD-0031,2025-11-11,Software crash,Rejected,Yes
+CLM-00326,SALE-00199,PROD-0089,2025-09-27,Physical damage claim,Approved,Yes
+CLM-00327,SALE-00679,PROD-0078,2025-08-12,Wi-Fi disconnecting,Rejected,Yes
+CLM-00328,SALE-00744,PROD-0056,2022-12-01,Speaker malfunction,Rejected,Yes
+CLM-00329,SALE-00372,PROD-0069,2024-04-09,Audio distortion,Pending,Yes
+CLM-00330,SALE-00086,PROD-0068,2025-08-14,Wi-Fi disconnecting,Under Review,No
+CLM-00331,SALE-00828,PROD-0030,2024-10-19,Performance degradation,Rejected,No
+CLM-00332,SALE-00312,PROD-0029,2023-11-29,Audio distortion,Pending,Yes
+CLM-00333,SALE-00376,PROD-0071,2025-09-04,Software crash,Rejected,Yes
+CLM-00334,SALE-00420,PROD-0100,2024-01-26,Audio distortion,Pending,Yes
+CLM-00335,SALE-00897,PROD-0051,2025-07-27,Speaker malfunction,Rejected,Yes
+CLM-00336,SALE-00354,PROD-0065,2025-02-12,Overheating issue,Pending,No
+CLM-00337,SALE-00260,PROD-0006,2025-08-08,Wi-Fi disconnecting,Rejected,Yes
+CLM-00338,SALE-00553,PROD-0003,2023-07-01,Physical damage claim,Pending,No
+CLM-00339,SALE-00099,PROD-0051,2024-01-02,Camera not working,Pending,Yes
+CLM-00340,SALE-00949,PROD-0017,2025-08-14,Performance degradation,Under Review,Yes
+CLM-00341,SALE-00159,PROD-0100,2023-05-14,Wi-Fi disconnecting,Under Review,Yes
+CLM-00342,SALE-00417,PROD-0023,2025-04-19,Physical damage claim,Approved,Yes
+CLM-00343,SALE-00389,PROD-0059,2025-06-04,Audio distortion,Rejected,Yes
+CLM-00344,SALE-00427,PROD-0001,2025-08-19,Touchscreen unresponsive,Approved,Yes
+CLM-00345,SALE-00235,PROD-0020,2025-05-22,Connectivity dropping,Rejected,Yes
+CLM-00346,SALE-00395,PROD-0073,2025-05-07,Touchscreen unresponsive,Pending,No
+CLM-00347,SALE-00032,PROD-0050,2023-12-05,Bluetooth not pairing,Approved,Yes
+CLM-00348,SALE-00367,PROD-0020,2025-08-15,Camera not working,Approved,Yes
+CLM-00349,SALE-00385,PROD-0093,2025-03-16,Bluetooth not pairing,Under Review,No
+CLM-00350,SALE-00043,PROD-0078,2025-05-25,Performance degradation,Rejected,Yes
+CLM-00351,SALE-00774,PROD-0058,2024-09-02,Overheating issue,Pending,No
+CLM-00352,SALE-00604,PROD-0049,2025-01-15,Wi-Fi disconnecting,Under Review,Yes
+CLM-00353,SALE-00209,PROD-0002,2025-07-09,Camera not working,Pending,No
+CLM-00354,SALE-00882,PROD-0053,2024-04-29,Device not turning on,Pending,Yes
+CLM-00355,SALE-00779,PROD-0081,2024-10-14,Performance degradation,Under Review,Yes
+CLM-00356,SALE-00681,PROD-0045,2023-07-06,Wi-Fi disconnecting,Pending,Yes
+CLM-00357,SALE-00283,PROD-0086,2022-10-18,Camera not working,Rejected,No
+CLM-00358,SALE-00701,PROD-0074,2024-06-07,Software crash,Rejected,Yes
+CLM-00359,SALE-00076,PROD-0021,2024-02-05,Screen flickering,Rejected,Yes
+CLM-00360,SALE-00013,PROD-0034,2025-09-28,Battery draining fast,Under Review,Yes
+CLM-00361,SALE-00351,PROD-0042,2024-04-25,Audio distortion,Pending,Yes
+CLM-00362,SALE-00547,PROD-0081,2025-06-24,Screen flickering,Pending,Yes
+CLM-00363,SALE-00537,PROD-0006,2025-02-23,Charging port defect,Under Review,Yes
+CLM-00364,SALE-00990,PROD-0003,2024-08-14,Device not turning on,Rejected,Yes
+CLM-00365,SALE-00804,PROD-0004,2024-12-31,Performance degradation,Approved,Yes
+CLM-00366,SALE-00661,PROD-0004,2024-09-21,Software crash,Pending,Yes
+CLM-00367,SALE-00112,PROD-0061,2025-03-13,Camera not working,Pending,Yes
+CLM-00368,SALE-00311,PROD-0007,2025-07-06,Screen flickering,Approved,Yes
+CLM-00369,SALE-00036,PROD-0052,2024-12-08,Audio distortion,Under Review,Yes
+CLM-00370,SALE-00924,PROD-0088,2025-01-15,Charging port defect,Rejected,Yes
+CLM-00371,SALE-00155,PROD-0100,2023-08-21,Touchscreen unresponsive,Pending,Yes
+CLM-00372,SALE-00396,PROD-0085,2025-10-07,Charging port defect,Pending,Yes
+CLM-00373,SALE-00202,PROD-0044,2024-06-21,Camera not working,Under Review,No
+CLM-00374,SALE-00538,PROD-0092,2025-04-16,Battery draining fast,Pending,Yes
+CLM-00375,SALE-00989,PROD-0014,2025-09-19,Wi-Fi disconnecting,Rejected,Yes
+CLM-00376,SALE-00173,PROD-0046,2023-08-19,Touchscreen unresponsive,Pending,Yes
+CLM-00377,SALE-00902,PROD-0003,2023-10-30,Wi-Fi disconnecting,Approved,No
+CLM-00378,SALE-00985,PROD-0098,2025-06-22,Physical damage claim,Pending,Yes
+CLM-00379,SALE-00520,PROD-0063,2025-08-19,Wi-Fi disconnecting,Pending,Yes
+CLM-00380,SALE-00843,PROD-0023,2025-07-25,Software crash,Under Review,Yes
+CLM-00381,SALE-00637,PROD-0044,2024-10-08,Connectivity dropping,Rejected,Yes
+CLM-00382,SALE-00913,PROD-0040,2025-08-17,Battery draining fast,Approved,Yes
+CLM-00383,SALE-00422,PROD-0077,2025-10-02,Camera not working,Approved,Yes
+CLM-00384,SALE-00239,PROD-0099,2025-11-17,Overheating issue,Rejected,Yes
+CLM-00385,SALE-00205,PROD-0094,2025-07-07,Bluetooth not pairing,Approved,Yes
+CLM-00386,SALE-00681,PROD-0045,2023-06-16,Physical damage claim,Under Review,Yes
+CLM-00387,SALE-00399,PROD-0078,2024-10-14,Speaker malfunction,Rejected,Yes
+CLM-00388,SALE-00595,PROD-0074,2025-06-10,Software crash,Pending,Yes
+CLM-00389,SALE-00595,PROD-0074,2025-06-24,Battery draining fast,Approved,Yes
+CLM-00390,SALE-00509,PROD-0070,2024-08-14,Screen flickering,Pending,Yes
+CLM-00391,SALE-00074,PROD-0008,2023-02-12,Performance degradation,Rejected,Yes
+CLM-00392,SALE-00796,PROD-0017,2025-03-07,Audio distortion,Under Review,Yes
+CLM-00393,SALE-00485,PROD-0034,2024-09-01,Touchscreen unresponsive,Under Review,Yes
+CLM-00394,SALE-00153,PROD-0064,2025-08-19,Device not turning on,Under Review,Yes
+CLM-00395,SALE-00335,PROD-0081,2025-02-24,Physical damage claim,Approved,Yes
+CLM-00396,SALE-00675,PROD-0013,2023-05-06,Camera not working,Approved,Yes
+CLM-00397,SALE-00848,PROD-0053,2024-09-17,Charging port defect,Approved,Yes
+CLM-00398,SALE-00037,PROD-0002,2025-08-06,Camera not working,Pending,No
+CLM-00399,SALE-00667,PROD-0014,2025-07-15,Connectivity dropping,Under Review,Yes
+CLM-00400,SALE-00773,PROD-0095,2025-07-22,Bluetooth not pairing,Approved,Yes

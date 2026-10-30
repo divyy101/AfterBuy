@@ -1,0 +1,24 @@
+# ==================================
+# AfterBuy – Python Dependencies
+# ==================================
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database (Firestore MongoDB-compatible)
+pymongo>=4.6.0
+python-dotenv>=1.0.0
+
+# Dashboard & Visualizations
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Firebase
+firebase-admin>=6.2.0
+
+# Cloud Functions Framework
+functions-framework>=3.4.0
+
+# Utilities
+python-dateutil>=2.8.2

@@ -1,0 +1,101 @@
+product_id,product_name,brand,category,launch_date,price,warranty_months
+PROD-0001,Samsung Galaxy 859,Samsung,Smartphones,2022-10-09,34970,12
+PROD-0002,JBL Rockerz 854,JBL,Headphones,2022-04-15,23840,6
+PROD-0003,Boat Xtend 132,Boat,Smartwatches,2022-01-31,11520,6
+PROD-0004,Lenovo Pad 5 617,Lenovo,Tablets,2023-09-09,39930,12
+PROD-0005,Bose Stanmore 833,Bose,Speakers,2023-10-28,6370,12
+PROD-0006,Samsung Predator 703,Samsung,Monitors,2022-10-12,14550,12
+PROD-0007,HP Pavilion 448,HP,Laptops,2022-10-12,35230,18
+PROD-0008,OnePlus Note 204,OnePlus,Smartphones,2022-04-05,70360,18
+PROD-0009,Sony FreeBuds 967,Sony,Headphones,2022-12-19,15630,12
+PROD-0010,Noise Verge 649,Noise,Smartwatches,2022-05-08,11200,12
+PROD-0011,Samsung Pro Tab 400,Samsung,Tablets,2024-04-29,11030,24
+PROD-0012,Bose Charge 691,Bose,Speakers,2022-07-16,29160,6
+PROD-0013,LG EW 891,LG,Monitors,2022-10-24,42960,12
+PROD-0014,HP Vostro 489,HP,Laptops,2022-10-12,49110,30
+PROD-0015,Xiaomi Redmi 479,Xiaomi,Smartphones,2022-12-30,21090,12
+PROD-0016,Boat Tune 723,Boat,Headphones,2023-10-13,5810,6
+PROD-0017,Boat GTR 267,Boat,Smartwatches,2023-04-19,5960,12
+PROD-0018,Apple Pro Tab 324,Apple,Tablets,2023-12-03,36240,18
+PROD-0019,JBL Stanmore 941,JBL,Speakers,2022-02-02,14090,12
+PROD-0020,BenQ Nitro VG 167,BenQ,Monitors,2022-08-05,20230,36
+PROD-0021,Lenovo VivoBook 771,Lenovo,Laptops,2023-05-27,85070,30
+PROD-0022,Motorola Redmi 371,Motorola,Smartphones,2022-05-23,18040,12
+PROD-0023,Audio-Technica Club 369,Audio-Technica,Headphones,2024-02-04,8370,12
+PROD-0024,Boat Xtend 470,Boat,Smartwatches,2022-08-13,6760,6
+PROD-0025,Realme Mini 193,Realme,Tablets,2024-02-13,32800,12
+PROD-0026,JBL Stone 742,JBL,Speakers,2022-06-13,23980,12
+PROD-0027,Acer Odyssey 494,Acer,Monitors,2023-01-26,16390,36
+PROD-0028,Asus Swift 357,Asus,Laptops,2023-07-21,76280,12
+PROD-0029,Samsung Lite 868,Samsung,Smartphones,2022-10-01,50650,24
+PROD-0030,Boat Tune 400,Boat,Headphones,2023-03-22,2590,6
+PROD-0031,Amazfit ColorFit 839,Amazfit,Smartwatches,2024-06-15,9900,18
+PROD-0032,Apple Pro Tab 880,Apple,Tablets,2022-07-02,18530,24
+PROD-0033,JBL SoundLink 961,JBL,Speakers,2023-10-17,3820,6
+PROD-0034,Samsung ProArt 880,Samsung,Monitors,2022-06-15,47850,36
+PROD-0035,Acer ProBook 713,Acer,Laptops,2022-11-28,116910,30
+PROD-0036,Samsung Nord 471,Samsung,Smartphones,2024-06-18,66200,18
+PROD-0037,JBL WH-1000 346,JBL,Headphones,2024-06-18,8660,6
+PROD-0038,Noise Verge 935,Noise,Smartwatches,2022-03-12,3270,18
+PROD-0039,Lenovo iPad Air 775,Lenovo,Tablets,2023-05-02,44210,24
+PROD-0040,Sony SoundLink 640,Sony,Speakers,2024-06-12,14320,12
+PROD-0041,Samsung EX 873,Samsung,Monitors,2024-01-18,13130,18
+PROD-0042,Lenovo Pavilion 787,Lenovo,Laptops,2023-10-28,74570,24
+PROD-0043,Motorola Lite 562,Motorola,Smartphones,2022-05-04,10480,12
+PROD-0044,JBL Tune 446,JBL,Headphones,2022-01-22,22870,6
+PROD-0045,Boat GTR 107,Boat,Smartwatches,2022-03-14,5360,18
+PROD-0046,Samsung Pad 5 169,Samsung,Tablets,2022-02-02,43130,18
+PROD-0047,JBL Acton 343,JBL,Speakers,2022-10-13,10730,12
+PROD-0048,Samsung EX 235,Samsung,Monitors,2024-01-11,29840,36
+PROD-0049,Acer ZenBook 348,Acer,Laptops,2024-03-14,79200,30
+PROD-0050,Motorola Edge 196,Motorola,Smartphones,2022-04-10,21310,24
+PROD-0051,Sennheiser FreeBuds 533,Sennheiser,Headphones,2023-02-25,24290,12
+PROD-0052,Noise Ring 162,Noise,Smartwatches,2023-02-17,12080,18
+PROD-0053,Apple Tab M 354,Apple,Tablets,2022-07-16,56970,12
+PROD-0054,Bose Revolve 243,Bose,Speakers,2023-03-09,27060,6
+PROD-0055,Dell Predator 355,Dell,Monitors,2024-06-14,33110,12
+PROD-0056,Asus Swift 200,Asus,Laptops,2022-02-21,112970,36
+PROD-0057,Samsung Nord 871,Samsung,Smartphones,2024-05-19,14370,12
+PROD-0058,JBL Airdopes 597,JBL,Headphones,2023-05-08,6110,6
+PROD-0059,Amazfit ColorFit 268,Amazfit,Smartwatches,2023-01-24,2590,6
+PROD-0060,Xiaomi Pad X 902,Xiaomi,Tablets,2024-03-14,26270,18
+PROD-0061,Boat Xtreme 813,Boat,Speakers,2024-01-19,12880,12
+PROD-0062,Samsung EW 403,Samsung,Monitors,2022-08-11,19400,12
+PROD-0063,Acer Swift 162,Acer,Laptops,2024-02-05,104590,24
+PROD-0064,Samsung Galaxy 698,Samsung,Smartphones,2023-05-04,33690,24
+PROD-0065,Audio-Technica Rockerz 158,Audio-Technica,Headphones,2023-06-05,8100,6
+PROD-0066,Fire-Boltt Ring 709,Fire-Boltt,Smartwatches,2022-03-11,9060,18
+PROD-0067,Lenovo Yoga 222,Lenovo,Tablets,2024-06-30,17050,24
+PROD-0068,Sony Go 708,Sony,Speakers,2022-02-10,24460,6
+PROD-0069,BenQ GW 678,BenQ,Monitors,2023-06-20,11130,24
+PROD-0070,Lenovo VivoBook 785,Lenovo,Laptops,2024-01-04,118820,24
+PROD-0071,OnePlus Narzo 505,OnePlus,Smartphones,2022-05-15,63600,24
+PROD-0072,Boat Live 423,Boat,Headphones,2024-02-09,6170,6
+PROD-0073,Noise Verge 736,Noise,Smartwatches,2023-07-31,2070,6
+PROD-0074,Samsung Pro Tab 318,Samsung,Tablets,2023-06-03,50770,18
+PROD-0075,Sony Charge 170,Sony,Speakers,2024-06-19,21790,6
+PROD-0076,Dell Nitro VG 261,Dell,Monitors,2023-03-25,38620,36
+PROD-0077,Lenovo Nitro 926,Lenovo,Laptops,2023-11-01,99410,36
+PROD-0078,Samsung Lite 406,Samsung,Smartphones,2023-11-11,13330,12
+PROD-0079,JBL ATH-M50 218,JBL,Headphones,2024-06-30,9920,6
+PROD-0080,Boat Galaxy Watch 378,Boat,Smartwatches,2022-10-16,3510,18
+PROD-0081,Lenovo Tab S 308,Lenovo,Tablets,2023-12-05,53160,24
+PROD-0082,Boat Acton 600,Boat,Speakers,2022-09-15,19450,6
+PROD-0083,LG ViewFinity 949,LG,Monitors,2022-10-11,21900,12
+PROD-0084,Dell ThinkPad 889,Dell,Laptops,2022-05-14,35720,24
+PROD-0085,OnePlus Pro 664,OnePlus,Smartphones,2023-12-24,30390,18
+PROD-0086,Audio-Technica WH-1000 214,Audio-Technica,Headphones,2022-03-19,9140,6
+PROD-0087,Boat ColorFit 954,Boat,Smartwatches,2023-01-14,11480,18
+PROD-0088,Realme iPad Air 540,Realme,Tablets,2022-05-11,41880,12
+PROD-0089,Boat Charge 915,Boat,Speakers,2024-05-31,26840,6
+PROD-0090,Dell EW 798,Dell,Monitors,2022-09-13,27830,12
+PROD-0091,Lenovo Swift 995,Lenovo,Laptops,2023-02-21,40760,36
+PROD-0092,OnePlus Edge 985,OnePlus,Smartphones,2022-06-16,59350,12
+PROD-0093,Sennheiser WH-1000 283,Sennheiser,Headphones,2024-01-25,19380,12
+PROD-0094,Amazfit GTR 373,Amazfit,Smartwatches,2022-06-13,9300,18
+PROD-0095,Samsung Yoga 993,Samsung,Tablets,2022-02-09,48550,18
+PROD-0096,Sony Stanmore 936,Sony,Speakers,2023-04-17,15830,12
+PROD-0097,Dell EW 328,Dell,Monitors,2022-01-25,29950,18
+PROD-0098,Asus ThinkPad 385,Asus,Laptops,2024-06-04,68480,12
+PROD-0099,Xiaomi Note 756,Xiaomi,Smartphones,2023-06-06,9830,18
+PROD-0100,Audio-Technica FreeBuds 128,Audio-Technica,Headphones,2022-04-29,4040,12
