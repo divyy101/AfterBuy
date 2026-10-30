@@ -59,29 +59,55 @@ _database = None
 
 def _get_connection_string():
     """
-    Read the MongoDB connection string from the environment.
+    Retrieve the MongoDB connection string using the following priority:
+      1. Streamlit secrets (st.secrets["FIRESTORE_MONGO_URI"])
+      2. Environment variables (os.environ.get("FIRESTORE_MONGO_URI"))
+      3. Local .env file loaded via python-dotenv
 
     Returns:
-        str: The connection string.
+        str: Valid connection string URI.
 
     Raises:
-        EnvironmentError: If the environment variable is not set.
+        EnvironmentError: If the connection string is missing across all sources.
     """
+    # 1. Check Streamlit secrets (for Streamlit Community Cloud deployment)
+    try:
+        import streamlit as st
+        if hasattr(st, "secrets") and ENV_VAR_NAME in st.secrets:
+            uri = st.secrets[ENV_VAR_NAME]
+            if uri and str(uri).strip():
+                return str(uri).strip()
+    except Exception:
+        # Not running in Streamlit runtime or secrets file not present; fall through
+        pass
+
+    # 2. Check os.environ
     uri = os.environ.get(ENV_VAR_NAME)
+    if uri and uri.strip():
+        return uri.strip()
 
-    if not uri:
-        raise EnvironmentError(
-            f"Environment variable '{ENV_VAR_NAME}' is not set.\n"
-            f"Set it with your Firestore MongoDB-compatible connection string.\n"
-            f"\n"
-            f"  Windows (PowerShell):\n"
-            f"    $env:{ENV_VAR_NAME} = 'your-connection-string'\n"
-            f"\n"
-            f"  Linux / macOS:\n"
-            f"    export {ENV_VAR_NAME}='your-connection-string'\n"
-        )
+    # 3. Fallback: ensure local .env is loaded via python-dotenv
+    try:
+        root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        env_path = os.path.join(root_dir, ".env")
+        if os.path.exists(env_path):
+            load_dotenv(env_path, override=True)
+            uri = os.environ.get(ENV_VAR_NAME)
+            if uri and uri.strip():
+                return uri.strip()
+    except Exception:
+        pass
 
-    return uri
+    # If still not found, raise clear diagnostic error (never exposing credentials)
+    raise EnvironmentError(
+        f"Database connection string '{ENV_VAR_NAME}' is not set.\n\n"
+        "Configuration instructions:\n"
+        "• On Streamlit Community Cloud: Go to App Settings > Secrets and add:\n"
+        f'    {ENV_VAR_NAME} = "your-mongodb-connection-string"\n\n'
+        "• For local development: Add to your root .env file:\n"
+        f"    {ENV_VAR_NAME}=your-mongodb-connection-string\n\n"
+        f"• In PowerShell / terminal: Set $env:{ENV_VAR_NAME} = 'your-string'"
+    )
 
 
 def get_client():
