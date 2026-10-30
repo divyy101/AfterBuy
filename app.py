@@ -45,10 +45,94 @@ CUSTOM_CSS = """
         font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     }
 
-    /* Sidebar Styling */
+    /* Sidebar Styling & Visibility */
     section[data-testid="stSidebar"] {
-        background-color: #0f172a;
-        border-right: 1px solid #1e293b;
+        background-color: #0f172a !important;
+        border-right: 1px solid #1e293b !important;
+        visibility: visible !important;
+    }
+
+    [data-testid="stSidebarContent"] {
+        background-color: #0f172a !important;
+    }
+
+    /* Force Sidebar to remain open & visible on desktop screens (>= 992px) */
+    @media (min-width: 992px) {
+        section[data-testid="stSidebar"] {
+            transform: none !important;
+            margin-left: 0 !important;
+            display: flex !important;
+            min-width: 290px !important;
+            max-width: 330px !important;
+        }
+    }
+
+    /* Prominent Sidebar Expand / Collapse Toggle Button */
+    [data-testid="stSidebarCollapsedControl"],
+    [data-testid="collapsedControl"] {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        background-color: #1e293b !important;
+        border: 1px solid #38bdf8 !important;
+        border-radius: 8px !important;
+        color: #38bdf8 !important;
+        padding: 6px 10px !important;
+        margin: 8px !important;
+        z-index: 999999 !important;
+        box-shadow: 0 0 10px rgba(56, 189, 248, 0.3) !important;
+        cursor: pointer !important;
+    }
+
+    [data-testid="stSidebarCollapsedControl"]:hover,
+    [data-testid="collapsedControl"]:hover {
+        background-color: #38bdf8 !important;
+        color: #0f172a !important;
+    }
+
+    [data-testid="stSidebarCollapsedControl"] svg,
+    [data-testid="collapsedControl"] svg {
+        fill: #38bdf8 !important;
+        stroke: #38bdf8 !important;
+        width: 20px !important;
+        height: 20px !important;
+    }
+
+    [data-testid="stSidebarCollapsedControl"]:hover svg,
+    [data-testid="collapsedControl"]:hover svg {
+        fill: #0f172a !important;
+        stroke: #0f172a !important;
+    }
+
+    /* Streamlit top header bar */
+    header[data-testid="stHeader"] {
+        background-color: rgba(11, 15, 25, 0.85) !important;
+        backdrop-filter: blur(8px) !important;
+        z-index: 9999 !important;
+    }
+
+    /* Sidebar Radio Navigation & Labels */
+    section[data-testid="stSidebar"] .stRadio label {
+        color: #e2e8f0 !important;
+        font-weight: 500 !important;
+        padding: 4px 8px !important;
+        border-radius: 6px !important;
+        transition: background-color 0.15s ease !important;
+    }
+    section[data-testid="stSidebar"] .stRadio label:hover {
+        background-color: #1e293b !important;
+        color: #38bdf8 !important;
+    }
+
+    section[data-testid="stSidebar"] h2,
+    section[data-testid="stSidebar"] h3 {
+        color: #f8fafc !important;
+    }
+    section[data-testid="stSidebar"] p,
+    section[data-testid="stSidebar"] span {
+        color: #cbd5e1;
     }
 
     /* Metric Cards */

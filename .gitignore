@@ -42,10 +42,11 @@ desktop.ini
 *.log
 logs/
 
-# ---- Environment Variables ----
+# ---- Environment Variables & Secrets ----
 .env
 .env.local
 .env.*.local
+.streamlit/secrets.toml
 
 # ---- Node (if accidentally created) ----
 node_modules/
